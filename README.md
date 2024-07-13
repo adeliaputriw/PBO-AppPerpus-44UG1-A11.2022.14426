@@ -123,6 +123,8 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
 
 1. Gunakan kolom pencarian untuk mencari buku berdasarkan ID, judul, atau penulis.
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
+   ![image](https://github.com/user-attachments/assets/4ccea29f-81b3-476f-92b6-20c784510ac4)
+
 
 ### Tampilan Anggota 🧑🏽‍🤝‍👩🏻
 
@@ -162,6 +164,8 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
    - **ID Anggota**
    - **Nama**
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
+   ![image](https://github.com/user-attachments/assets/e0dab13e-c807-4202-8fa1-f430e5fee7bd)
+
 
 ### Tampilan Pustakawan 🧑🏻‍🤝‍👩🏽
 
@@ -202,6 +206,8 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
    - **Nama**
    - **Email**
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
+   ![image](https://github.com/user-attachments/assets/3ce956d8-ed62-472b-80d6-00537bcf7ab3)
+
    
 ### Tampilan Transaksi 🎁
 
@@ -250,5 +256,6 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
    - **Tanggal Kembali**
    - **Status**
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
+   ![image](https://github.com/user-attachments/assets/a6db9501-d255-4a5d-8250-fc85ec5e64ea)
 
-![image](https://github.com/user-attachments/assets/c658867e-bc88-4133-a039-a82dfe7090f9)
+
