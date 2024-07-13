@@ -250,3 +250,5 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
    - **Tanggal Kembali**
    - **Status**
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
+
+![image](https://github.com/user-attachments/assets/c658867e-bc88-4133-a039-a82dfe7090f9)
