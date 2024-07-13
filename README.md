@@ -29,7 +29,7 @@ Aplikasi ini dikembangkan menggunakan IntelliJ IDEA.
   - Pencatatan informasi anggota pada saat peminjaman
   - Pencatatan pengembalian buku
   - Pembaruan status buku
-  - 
+    
 ## 🛠️ Instalasi
 Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
 
@@ -90,7 +90,7 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
 
 ## 💻 Penggunaan
 
-### Tampilan Buku
+### Tampilan Buku 📗
 
 #### Menambahkan Buku
 
@@ -124,7 +124,7 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
 1. Gunakan kolom pencarian untuk mencari buku berdasarkan ID, judul, atau penulis.
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
 
-### Tampilan Anggota
+### Tampilan Anggota 🧑🏽‍🤝‍👩🏻
 
 #### Menambahkan Anggota
 
@@ -163,7 +163,7 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
    - **Nama**
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
 
-### Tampilan Pustakawan
+### Tampilan Pustakawan 🧑🏻‍🤝‍👩🏽
 
 #### Menambahkan Pustakawan
 
@@ -203,7 +203,7 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
    - **Email**
 2. Tabel akan menampilkan hasil pencarian secara dinamis.
    
-### Tampilan Transaksi
+### Tampilan Transaksi 🎁
 
 #### Menambahkan Transaksi
 
