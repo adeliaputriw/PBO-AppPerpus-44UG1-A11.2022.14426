@@ -5,7 +5,7 @@ Aplikasi ini dirancang untuk melakukan berbagai operasi seperti mencatat peminja
 Aplikasi ini dikembangkan menggunakan IntelliJ IDEA.
 
 ## 🎨 Fitur Utama
-- **Transaksi Peminjaman & Pengembalian:**
+- **Manajemen Buku:**
   - Penambahan buku baru ke dalam database.
   - Pengeditan data buku yang sudah ada.
   - Penghapusan buku yang tidak lagi tersedia.
