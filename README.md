@@ -46,7 +46,7 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
     CREATE TABLE buku (
       idbuku int(11) PRIMARY KEY,
       judul varchar(50),
-      penerbi` varchar(50),
+      penerbit varchar(50),
       penulis varchar(50),
       tahun_terbit int(11)
     );
@@ -66,14 +66,14 @@ Langkah-langkah berikut untuk mengatur dan menjalankan aplikasi:
     CREATE TABLE pustakawan (
       idpustakawan int(11) PRIMARY KEY,
       nama varchar(50),
-      email varchar(20)
+      email varchar(50)
     );
     ```
     
     Buat database MySQL dan jalankan skrip berikut untuk membuat tabel `transaksi`:
     ```sql
     CREATE TABLE transaksi (
-      idtransaksi int(11) NOT NULL,
+      idtransaksi int(11) PRIMARY KEY NOT NULL,
       idanggota int(11) NOT NULL,
       idbuku int(11) NOT NULL,
       tanggalpinjam date NOT NULL,
